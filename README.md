@@ -1,2 +1,1 @@
-# hw6
-Stock flowers
+#  program Stock flowers
